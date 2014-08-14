@@ -1,0 +1,9 @@
+c:\users\cbolukbas\documents\visual studio 2010\Projects\SMTP_TEST\SMTP_TEST\bin\Debug\SMTP_TEST.exe
+c:\users\cbolukbas\documents\visual studio 2010\Projects\SMTP_TEST\SMTP_TEST\bin\Debug\SMTP_TEST.pdb
+c:\users\cbolukbas\documents\visual studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\cbolukbas\documents\visual studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Debug\SMTP_TEST.Properties.Resources.resources
+c:\users\cbolukbas\documents\visual studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\cbolukbas\documents\visual studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\cbolukbas\documents\visual studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Debug\SMTP_TEST.exe
+c:\users\cbolukbas\documents\visual studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Debug\SMTP_TEST.pdb
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Debug\SMTP_TEST.MainForm.resources

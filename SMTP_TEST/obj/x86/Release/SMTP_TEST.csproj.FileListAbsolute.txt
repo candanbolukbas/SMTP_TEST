@@ -1,0 +1,14 @@
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\bin\Release\SMTP_TEST.exe
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\bin\Release\SMTP_TEST.pdb
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Release\SMTP_TEST.MainForm.resources
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Release\SMTP_TEST.Properties.Resources.resources
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Release\SMTP_TEST.exe
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Release\SMTP_TEST.pdb
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\bin\Release\SMTP_TEST.exe.config
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\bin\Release\SMTP_TEST.exe.manifest
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\bin\Release\SMTP_TEST.application
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Release\SMTP_TEST.exe.manifest
+C:\Users\cbolukbas\Documents\Visual Studio 2010\Projects\SMTP_TEST\SMTP_TEST\obj\x86\Release\SMTP_TEST.application
